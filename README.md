@@ -6,7 +6,7 @@
 
 
 ## Socials:
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/eraysen99) 
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/eray-sen99/) 
 
 ## Tech Stack:
 <div>
